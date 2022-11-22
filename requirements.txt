@@ -6,5 +6,5 @@ tensorflow==1.15.2
 pandas==1.0.1
 nsepy==0.8
 pandas_datareader==0.8.1
-Pillow==7.1.2
+Pillow==9.3.0
 scikit_learn==0.23.1
